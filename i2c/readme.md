@@ -47,25 +47,3 @@ The project consists of an Arduino sketch written in C++ using the Arduino Wire 
 ## Troubleshooting
 
 - If "Garbage value or improper signal" messages are encountered, it indicates a potential issue during detection or reading. Review the troubleshooting section in the code or consult the documentation.
-
-## Contributing
-
-Feel free to contribute to this project by providing bug reports, feature requests, or code contributions.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- The project utilizes the Arduino Wire library for I2C communication.
-
-## Contact
-
-For any questions or feedback, feel free to contact the project maintainer:
-
-- Your Name
-- Your Email
-
----
-
